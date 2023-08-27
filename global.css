@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sf-pro-h6-bold: "SF Pro Display";
+  --font-gilroy-h6-medium: SVN-Gilroy;
+
+  /* font sizes */
+  --font-gilroy-h6-medium-size: 20px;
+  --font-sf-pro-subtitle-1-bold-size: 16px;
+  --font-gilroy-button-bold-size: 14px;
+
+  /* Colors */
+  --light-gray-0: #fff;
+  --light-secondary-50: #2a84c6;
+
+  /* Gaps */
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-5xl: 24px;
+  --padding-9xs: 4px;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+}
